@@ -1,0 +1,27 @@
+<HTML>
+ <HEAD>
+  <TITLE> PROGRAMS</TITLE>
+  <script>
+  function sub()
+  {
+  var a,b,ans,result,show;
+  a=document.BCA.t1.value
+  b=document.BCA.t2.value
+  ans=a-b;
+  result=a*b;
+  show=a/b;
+  alert("substration is "+ans);
+  alert("multiplication is "+result);
+  alert("division is "+show);
+  }
+  </script>
+ </HEAD>
+
+ <BODY>
+   <form name="BCA">
+    enter 1st no<input type="text" name="t1"><br>
+	enter 2nd no<input type="text" name="t2"><br>
+	<input type="button" value="result" onClick="sub()">
+	</form>
+ </BODY>
+</HTML>
