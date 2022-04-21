@@ -1,0 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> New Document </TITLE>
+  <style>
+  h3{font-style:bold;}
+  p{font-style:italic;}
+  marquee{font-style:underline;}
+  </style>
+ </HEAD>
+ <BODY>
+ <h3>Hello Friends</h1><br>
+ <p>This is First Year<p>
+ <marquee>BCA Class</marquee>
+ </BODY>
+</HTML>
